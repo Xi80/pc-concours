@@ -27,8 +27,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16f4b6d7-1088-4fab-b1b2-66f721d266b2" name="Default Changelist" comment="problem4まで">
-      <change afterPath="$PROJECT_DIR$/2019/problem5.c" afterDir="false" />
+    <list default="true" id="16f4b6d7-1088-4fab-b1b2-66f721d266b2" name="Default Changelist" comment="problem5まで">
+      <change afterPath="$PROJECT_DIR$/2019/problem6.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598501883949</updated>
-      <workItem from="1598501885553" duration="2780000" />
+      <workItem from="1598501885553" duration="6580000" />
     </task>
     <task id="LOCAL-00001" summary="problem2まで">
       <created>1598503177615</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598503947394</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="problem5まで">
+      <created>1598504787752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598504787752</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +135,8 @@
     <MESSAGE value="problem2まで" />
     <MESSAGE value="problem3まで" />
     <MESSAGE value="problem4まで" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem4まで" />
+    <MESSAGE value="problem5まで" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem5まで" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598501973013">
@@ -139,10 +147,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598501945589" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1598503181863">
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1598504792976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598503181863" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598504792976" />
     <state x="136" y="244" key="run.anything.popup" timestamp="1598503169504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

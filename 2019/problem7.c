@@ -54,12 +54,16 @@ int main(void){
     unsigned long bit = 0x0001;
     unsigned long dest = 0x0000;
 
+    /*
     for(long i = 0;i < n;i++){
         dest |= 1 << i;
     }
+     */
 
-    while(bit != dest + 1){
+    //while(bit != dest + 1){
 
+    //adviced by @ecto0310 ,thx
+    while(bit < (1 << n)){
         unsigned long pos = 0;
         unsigned long negPos = 0;
         unsigned long array[n];
